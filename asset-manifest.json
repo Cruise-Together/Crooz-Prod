@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Crooz-Prod/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Crooz-Prod/static/js/main.6eeb0d0a.chunk.js",
-    "main.js.map": "/Crooz-Prod/static/js/main.6eeb0d0a.chunk.js.map",
+    "main.js": "/Crooz-Prod/static/js/main.8d6ce9ab.chunk.js",
+    "main.js.map": "/Crooz-Prod/static/js/main.8d6ce9ab.chunk.js.map",
     "runtime-main.js": "/Crooz-Prod/static/js/runtime-main.f12751bb.js",
     "runtime-main.js.map": "/Crooz-Prod/static/js/runtime-main.f12751bb.js.map",
-    "static/js/2.f8ad81fc.chunk.js": "/Crooz-Prod/static/js/2.f8ad81fc.chunk.js",
-    "static/js/2.f8ad81fc.chunk.js.map": "/Crooz-Prod/static/js/2.f8ad81fc.chunk.js.map",
+    "static/js/2.88860608.chunk.js": "/Crooz-Prod/static/js/2.88860608.chunk.js",
+    "static/js/2.88860608.chunk.js.map": "/Crooz-Prod/static/js/2.88860608.chunk.js.map",
     "static/js/3.7944a078.chunk.js": "/Crooz-Prod/static/js/3.7944a078.chunk.js",
     "static/js/3.7944a078.chunk.js.map": "/Crooz-Prod/static/js/3.7944a078.chunk.js.map",
     "index.html": "/Crooz-Prod/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/Crooz-Prod/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.f8ad81fc.chunk.js.LICENSE.txt": "/Crooz-Prod/static/js/2.f8ad81fc.chunk.js.LICENSE.txt"
+    "static/js/2.88860608.chunk.js.LICENSE.txt": "/Crooz-Prod/static/js/2.88860608.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f12751bb.js",
-    "static/js/2.f8ad81fc.chunk.js",
+    "static/js/2.88860608.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.6eeb0d0a.chunk.js"
+    "static/js/main.8d6ce9ab.chunk.js"
   ]
 }
